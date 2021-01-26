@@ -20,7 +20,7 @@ dependencies {
     implementation 'com.google.guava:guava:29.0-jre'
     
     // apache-commons-csv 0.1.0
-    implementation 'io.github.qsy7.java.modules.csv.modules:apache-commons-csv:0.1.0'
+    compile group: 'org.apache.commons', name: 'commons-csv', version: '1.8'
 }
 
 application {
