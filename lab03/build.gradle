@@ -1,0 +1,45 @@
+buildscript {   
+	repositories {    
+		flatDir dirs: 'proguard6.2.2/lib'  	
+	}   
+	dependencies {      
+		// Proguard
+		classpath ':proguard'
+	}
+}
+plugins {
+    // Apply the application plugin to add support for building a CLI application in Java.
+    id 'application'
+	id 'java'
+}
+sourceCompatibility = 1.7
+version = '1.0'
+jar {    
+	manifest {        
+	attributes  'Main-Class': 'Test',                    
+		'Implementation-Title': 'Sample-Gradle',                    
+		'Implementation-Version': version    
+	}
+}
+repositories {
+    // Use JCenter for resolving dependencies.
+    jcenter()
+    mavenCentral()
+}
+dependencies {      
+		// This dependency is used by the application.
+		implementation 'com.google.guava:guava:29.0-jre'
+		// apache-commons-csv 0.1.0
+		compile group: 'org.apache.commons', name: 'commons-csv', version: '1.8'
+}
+application {
+    // Define the main class for the application.
+    mainClass = 'lab03.CSVDemo'
+}
+
+task (minify, dependsOn: 'jar', type: proguard.gradle.ProGuardTask) {   
+    configuration 'proguard.cfg'    
+
+    injars 'build/libs/lab03-1.0.jar'   
+    outjars 'build/libs/lab03-1.0.min.jar'
+}
