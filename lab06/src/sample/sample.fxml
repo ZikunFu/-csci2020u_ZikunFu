@@ -13,14 +13,14 @@
       <Rectangle fill="#251fff" height="165.0" layoutX="50.0" layoutY="320.0" smooth="false" stroke="TRANSPARENT" strokeType="INSIDE" width="10.0" x="75.0" y="-155.0" />
       <Rectangle fill="#ff1f1f" height="37.0" layoutX="75.0" layoutY="320.0" smooth="false" stroke="TRANSPARENT" strokeType="INSIDE" width="10.0" x="65.0" y="-27.0" />
       <Rectangle fill="#251fff" height="170.0" layoutX="75.0" layoutY="330.0" smooth="false" stroke="TRANSPARENT" strokeType="INSIDE" width="10.0" x="75.0" y="-170.0" />
-      <Rectangle fill="#ff1f1f" height="40.0" layoutX="95.0" layoutY="330.0" smooth="false" stroke="TRANSPARENT" strokeType="INSIDE" width="10.0" x="65.0" y="-40.0" />
-      <Rectangle fill="#251fff" height="175.0" layoutX="95.0" layoutY="340.0" smooth="false" stroke="TRANSPARENT" strokeType="INSIDE" width="10.0" x="75.0" y="-185.0" />
-      <Rectangle fill="#ff1f1f" height="43.0" layoutX="120.0" layoutY="340.0" smooth="false" stroke="TRANSPARENT" strokeType="INSIDE" width="10.0" x="65.0" y="-53.0" />
-      <Rectangle fill="#251fff" height="185.0" layoutX="120.0" layoutY="350.0" smooth="false" stroke="TRANSPARENT" strokeType="INSIDE" width="10.0" x="75.0" y="-205.0" />
-      <Rectangle fill="#ff1f1f" height="47.0" layoutX="145.0" layoutY="350.0" smooth="false" stroke="TRANSPARENT" strokeType="INSIDE" width="10.0" x="65.0" y="-67.0" />
-      <Rectangle fill="#251fff" height="195.0" layoutX="145.0" layoutY="360.0" smooth="false" stroke="TRANSPARENT" strokeType="INSIDE" width="10.0" x="75.0" y="-225.0" />
-      <Rectangle fill="#ff1f1f" height="50.0" layoutX="170.0" layoutY="360.0" smooth="false" stroke="TRANSPARENT" strokeType="INSIDE" width="10.0" x="65.0" y="-80.0" />
-      <Rectangle fill="#251fff" height="200.0" layoutX="170.0" layoutY="370.0" smooth="false" stroke="TRANSPARENT" strokeType="INSIDE" width="10.0" x="75.0" y="-240.0" />
+      <Rectangle fill="#ff1f1f" height="40.0" layoutX="100.0" layoutY="330.0" smooth="false" stroke="TRANSPARENT" strokeType="INSIDE" width="10.0" x="65.0" y="-40.0" />
+      <Rectangle fill="#251fff" height="175.0" layoutX="100.0" layoutY="340.0" smooth="false" stroke="TRANSPARENT" strokeType="INSIDE" width="10.0" x="75.0" y="-185.0" />
+      <Rectangle fill="#ff1f1f" height="43.0" layoutX="125.0" layoutY="340.0" smooth="false" stroke="TRANSPARENT" strokeType="INSIDE" width="10.0" x="65.0" y="-53.0" />
+      <Rectangle fill="#251fff" height="185.0" layoutX="125.0" layoutY="350.0" smooth="false" stroke="TRANSPARENT" strokeType="INSIDE" width="10.0" x="75.0" y="-205.0" />
+      <Rectangle fill="#ff1f1f" height="47.0" layoutX="150.0" layoutY="350.0" smooth="false" stroke="TRANSPARENT" strokeType="INSIDE" width="10.0" x="65.0" y="-67.0" />
+      <Rectangle fill="#251fff" height="195.0" layoutX="150.0" layoutY="360.0" smooth="false" stroke="TRANSPARENT" strokeType="INSIDE" width="10.0" x="75.0" y="-225.0" />
+      <Rectangle fill="#ff1f1f" height="50.0" layoutX="175.0" layoutY="360.0" smooth="false" stroke="TRANSPARENT" strokeType="INSIDE" width="10.0" x="65.0" y="-80.0" />
+      <Rectangle fill="#251fff" height="200.0" layoutX="175.0" layoutY="370.0" smooth="false" stroke="TRANSPARENT" strokeType="INSIDE" width="10.0" x="75.0" y="-240.0" />
       <Arc fill="DARKSALMON" layoutX="450.0" layoutY="200.0" length="100.0" radiusX="100.0" radiusY="100.0" startAngle="130.0" stroke="TRANSPARENT" strokeType="INSIDE" type="ROUND" />
       <Arc fill="#7dfa00" layoutX="450.0" layoutY="200.0" length="70.0" radiusX="100.0" radiusY="100.0" startAngle="-130.0" stroke="TRANSPARENT" strokeType="INSIDE" type="ROUND" />
       <Arc fill="#ff8c00" layoutX="450.0" layoutY="200.0" length="75.0" radiusX="100.0" radiusY="100.0" startAngle="55.0" stroke="TRANSPARENT" strokeType="INSIDE" type="ROUND" />
